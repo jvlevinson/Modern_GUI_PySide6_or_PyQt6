@@ -14,7 +14,7 @@ target = Executable(
 
 # SETUP CX FREEZE
 setup(
-    name = "PyDracula",
+    name = "JavoseCorp Chatbot",
     version = "1.0",
     description = "Modern GUI for Python applications",
     author = "Wanderson M. Pimenta",
